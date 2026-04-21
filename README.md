@@ -1,4 +1,3 @@
-![Banner](https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=Bienvenida%20a%20mi%20Perfil&fontSize=50)
 # ¡Hola! Soy Fátima 👋
 
 ## Sobre mí
