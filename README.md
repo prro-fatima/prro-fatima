@@ -1,3 +1,4 @@
+![Banner](https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=Bienvenida%20a%20mi%20Perfil&fontSize=50)
 # ¡Hola! Soy Fátima 👋
 
 ## Sobre mí
@@ -5,6 +6,7 @@ Soy Fátima, una apasionada estudiante de programación en el bootcamp de Kodigo
 
 ## Tecnologías y herramientas
 A lo largo de mi formación en el bootcamp, he comenzado a dominar las siguientes herramientas:
+
 
 * **Git**: Control de versiones local.
 * **GitHub**: Alojamiento de repositorios y colaboración en la nube.
