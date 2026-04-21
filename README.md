@@ -16,3 +16,7 @@ A lo largo de mi formación en el bootcamp, he comenzado a dominar las siguiente
 
 * ## Contacto
 ¡Estoy abierta a nuevas oportunidades y colaboraciones! Puedes contactarme a través de mi perfil de GitHub o enviarme un mensaje directo.
+
+
+## 📊 Mis Estadísticas
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=prro-fatima&show_icons=true&theme=radical)
